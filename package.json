@@ -1,0 +1,24 @@
+{
+  "name": "heron",
+  "version": "0.0.1",
+  "description": "heron",
+  "keywords": [],
+  "homepage": "",
+  "author": "herbertliu <herbertliuhb@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "lego": {
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+language: node_js
+
+node_js:
+  - "0.10"
+
+install:
+  - npm install lego coveralls
+
+before_script:
+  - node_modules/lego/bin/lego-install
+
+script:
+  - node_modules/lego/bin/lego-test
+
+after_success:
+  - node_modules/lego/bin/lego-test --coveralls | node_modules/.bin/coveralls

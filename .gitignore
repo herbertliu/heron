@@ -2,9 +2,35 @@
 bin/
 bin-debug/
 bin-release/
+*.iml
+.idea/
+.ipr
+.iws
+*~
+~*
+*.diff
+*.patch
+*.bak
+.DS_Store
+Thumbs.db
+.project
+.*proj
+.svn/
+*.swp
+*.swo
+*.pyc
+*.pyo
+.build
+node_modules
+_site
+sea-modules
+lego_modules
+.cache
+dist
 
 # Other files and folders
 .settings/
+
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
