@@ -1,7 +1,7 @@
 {
   "name": "heron",
   "version": "0.0.1",
-  "description": "A scheme of monitoring and limiting optimization",
+  "description": "A scaffold for Hybrid Development",
   "keywords": [],
   "homepage": "",
   "author": "herbertliu <herbertliuhb@gmail.com>",
