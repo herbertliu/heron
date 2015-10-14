@@ -1,4 +1,4 @@
-# heron [![lego version](http://lego.oa.com:80/badge/heron)](http://lego.oa.com:80/package/heron)
+# heron [![lego version](http://lego.imweb.com/badge/heron)](http://lego.imweb.com/badge/heron)
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "name": "heron",
   "version": "0.0.1",
-  "description": "heron",
+  "description": "A scheme of monitoring and limiting optimization",
   "keywords": [],
   "homepage": "",
   "author": "herbertliu <herbertliuhb@gmail.com>",
@@ -14,9 +14,10 @@
   },
   "licenses": "MIT",
   "lego": {
+    "category": "39",
+    "categoryName": "Js",
     "main": "index.js",
-    "dependencies": {
-    },
+    "dependencies": {},
     "devDependencies": {
       "expect.js": "0.3.1"
     }
